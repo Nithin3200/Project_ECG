@@ -1,0 +1,4 @@
+../Schiller/USB_Mass_storage_operations.c:116:15:WriteTOusb	64	static
+../Schiller/USB_Mass_storage_operations.c:312:16:GetUSBErrNo	4	static
+../Schiller/USB_Mass_storage_operations.c:324:6:ResetUSBErrNo	4	static
+../Schiller/USB_Mass_storage_operations.c:351:6:ReadDataFromUSB	24	static

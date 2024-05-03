@@ -1,0 +1,5 @@
+../Application/NMT_Module_Decoder.c:341:6:Decode_NMT_Module_Data	32	static
+../Application/NMT_Module_Decoder.c:228:6:GetNMTModuleData	40	static
+../Application/NMT_Module_Decoder.c:2379:15:GetHandshakingRequested	0	static
+../Application/NMT_Module_Decoder.c:2385:6:ResetHandshakingRequested	0	static
+../Application/NMT_Module_Decoder.c:2389:15:GetNIBPEndofMeasurement	0	static

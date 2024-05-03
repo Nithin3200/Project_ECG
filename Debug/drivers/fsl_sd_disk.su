@@ -1,0 +1,5 @@
+../drivers/fsl_sd_disk.c:60:9:sd_disk_write	24	static
+../drivers/fsl_sd_disk.c:75:9:sd_disk_read	24	static
+../drivers/fsl_sd_disk.c:90:9:sd_disk_ioctl	24	static
+../drivers/fsl_sd_disk.c:142:9:sd_disk_status	16	static
+../drivers/fsl_sd_disk.c:152:9:sd_disk_initialize	16	static

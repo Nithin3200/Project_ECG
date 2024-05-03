@@ -1,0 +1,4 @@
+../Schiller/SPO2.c:94:6:Decode_Spo2_Data	16	static
+../Schiller/SPO2.c:173:6:Decode_Spo2Frame	24	static
+../Schiller/SPO2.c:646:15:CRC_Check2_Xmit	24	static
+../Schiller/SPO2.c:655:15:CRC_Check2	24	static

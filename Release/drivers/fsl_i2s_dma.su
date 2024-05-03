@@ -1,0 +1,12 @@
+fsl_i2s_dma.c:164:20:I2S_DisableDMAInterrupts	8	static
+fsl_i2s_dma.c:148:17:I2S_GetInstance.part.0	0	static
+fsl_i2s_dma.c:98:17:I2S_EnqueueUserBuffer	24	static
+fsl_i2s_dma.c:169:20:I2S_EnableDMAInterrupts	8	static
+fsl_i2s_dma.c:442:17:I2S_StartTransferDMA	56	static
+fsl_i2s_dma.c:522:13:I2S_AddTransferDMA	72	static
+fsl_i2s_dma.c:186:6:I2S_TxTransferCreateHandleDMA	40	static
+fsl_i2s_dma.c:235:10:I2S_TxTransferSendDMA	32	static
+fsl_i2s_dma.c:273:6:I2S_TransferAbortDMA	16	static
+fsl_i2s_dma.c:598:6:I2S_DMACallback	24	static
+fsl_i2s_dma.c:338:6:I2S_RxTransferCreateHandleDMA	0	static
+fsl_i2s_dma.c:358:10:I2S_RxTransferReceiveDMA	32	static

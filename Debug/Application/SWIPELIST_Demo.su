@@ -1,0 +1,13 @@
+../Application/SWIPELIST_Demo.c:479:13:_AnimSwipeInOut	40	static
+../Application/SWIPELIST_Demo.c:504:13:_AnimMoveWindows	56	static
+../Application/SWIPELIST_Demo.c:530:13:_AnimExec	16	static
+../Application/SWIPELIST_Demo.c:546:13:_CreateAnim	32	static
+../Application/SWIPELIST_Demo.c:558:13:_cbBk	16	static
+../Application/SWIPELIST_Demo.c:572:13:_cbWindows	56	static
+../Application/SWIPELIST_Demo.c:4040:13:_cbSunny	80	static
+../Application/SWIPELIST_Demo.c:4142:13:_cbWin	56	static
+../Application/SWIPELIST_Demo.c:4214:12:_OwnerDraw	56	static
+../Application/SWIPELIST_Demo.c:4326:13:_CreateWindows	48	static
+../Application/SWIPELIST_Demo.c:4347:6:MainTask	408	static
+../Application/SWIPELIST_Demo.c:4891:6:CreateBootingScreen	24	static
+../Application/SWIPELIST_Demo.c:4904:6:Initialisewavebuffer	8	static

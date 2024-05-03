@@ -1,0 +1,4 @@
+D:\Enhanced_GUI_DIGI400Project\x\CMSIS/core_cm4.h:1715:22:__NVIC_DisableIRQ	16	static
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_common.h:498:28:DisableIRQ	16	static
+../Schiller/ECG.c:72:6:Decode_ECG_Data	16	static
+../Schiller/ECG.c:167:6:Decode_ECG_Frame	16	static

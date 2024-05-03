@@ -1,0 +1,10 @@
+../Application/WaveFormWindow.c:53:13:_cb_Waveform_1_window	40	static
+../Application/WaveFormWindow.c:113:13:_cb_Waveform_2_window	40	static
+../Application/WaveFormWindow.c:174:13:_cb_Waveform_3_window	40	static
+../Application/WaveFormWindow.c:234:13:_cb_Waveform_4_window	40	static
+../Application/WaveFormWindow.c:448:6:CreateWaveFormWindow	24	static
+../Application/WaveFormWindow.c:470:6:DisplaySerialTracker	16	static
+../Application/WaveFormWindow.c:485:7:UpdateWaveform_win	24	static
+../Application/WaveFormWindow.c:491:10:GetWaveWindowhandler	16	static
+../Application/WaveFormWindow.c:496:15:GetMAXwaveformsPerWindow	4	static
+../Application/WaveFormWindow.c:505:6:UpdateWaveformTypetoWavechannelType	80	static

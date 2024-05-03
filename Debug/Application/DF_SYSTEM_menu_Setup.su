@@ -1,0 +1,2 @@
+../Application/DF_SYSTEM_menu_Setup.c:115:6:_cbSYSTEM_MENUSetupWin	88	static
+../Application/DF_SYSTEM_menu_Setup.c:293:6:CreateSYSTEM_MENUSetupwindow	16	static

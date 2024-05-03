@@ -1,0 +1,6 @@
+../Schiller/ETCO2.c:96:6:Decode_Capno_Data	24	static
+../Schiller/ETCO2.c:248:6:Decode_CapnoFrame	8	static
+../Schiller/ETCO2.c:549:6:Get_Status_Summary	16	static
+../Schiller/ETCO2.c:562:6:CapnoInvalRead	4	static
+../Schiller/ETCO2.c:571:5:ConvCo2PercTommHg	24	static
+../Schiller/ETCO2.c:583:6:Capno_Checksum_cal	24	static

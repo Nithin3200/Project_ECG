@@ -1,0 +1,5 @@
+../Application/DF_TempSetup.c:95:6:_cbTempSetupWin	120	static
+../Application/DF_TempSetup.c:352:6:CreateTempSetupwindow	16	static
+../Application/DF_TempSetup.c:366:5:roundNo	16	static
+../Application/DF_TempSetup.c:371:7:ComputeTemperatureValues	24	static
+../Application/DF_TempSetup.c:392:6:IntialiseTempSetupWindow	4	static

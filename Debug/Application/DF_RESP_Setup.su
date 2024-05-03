@@ -1,0 +1,2 @@
+../Application/DF_RESP_Setup.c:90:6:_cbRespmenuSetupWin	88	static
+../Application/DF_RESP_Setup.c:240:6:CreateRespmenuSetupwindow	16	static

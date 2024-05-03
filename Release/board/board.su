@@ -1,0 +1,5 @@
+board.c:53:6:BOARD_InitDebugConsole	0	static
+board.c:57:6:BOARD_InitSDRAM	88	static
+board.c:101:10:APP_LCDC_Init	48	static
+board.c:138:6:BOARD_InitPWM	40	static
+board.c:154:6:SchillerBoard_InitPins	0	static

@@ -1,0 +1,4 @@
+SDCard.c:226:5:Open_Audio_File	16	static
+SDCard.c:366:6:Write_To_SDCard	48	static
+SDCard.c:1156:6:Read_From_SDCard	248	static
+SDCard.c:162:6:Initialize_SDCard	24	static

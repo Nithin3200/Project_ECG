@@ -1,0 +1,5 @@
+fsl_DualUart.c:12:6:Dual_Uart_Init	0	static
+fsl_DualUart.c:52:6:Delay	0	static
+fsl_DualUart.c:64:6:Read_UartCO2	16	static
+fsl_DualUart.c:72:6:Write_UartCo2	0	static
+fsl_DualUart.c:77:6:Read_UartRenesas	16	static

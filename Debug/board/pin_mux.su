@@ -1,0 +1,3 @@
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_clock.h:701:20:CLOCK_EnableClock	24	static
+../board/pin_mux.c:78:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:276:6:BOARD_InitPins	168	static

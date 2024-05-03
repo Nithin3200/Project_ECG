@@ -1,0 +1,2 @@
+../Schiller/CPR.c:35:6:CPR_Decode_Data	16	static
+../Schiller/CPR.c:60:6:Decode_CPRFrame	8	static

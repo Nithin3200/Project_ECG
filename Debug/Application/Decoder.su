@@ -1,0 +1,8 @@
+../Application/Decoder.c:95:6:Decode_BM100_Data	24	static
+../Application/Decoder.c:387:6:Decode_BM100Frame	48	static
+../Application/Decoder.c:1592:6:Calc_CheckSum_BM100	24	static
+../Application/Decoder.c:1607:6:Calcu_CheckSum_BM100_Xmit	24	static
+../Application/Decoder.c:1623:15:Get_ECG_R_wave_Detected	4	static
+../Application/Decoder.c:1628:7:Reset_ECG_R_wave_Detected	4	static
+../Application/Decoder.c:1635:15:Get_SPO2_BarGraph_indexNumber	4	static
+../Application/Decoder.c:1640:7:Reset_SPO2_BarGraph_indexNumber	4	static

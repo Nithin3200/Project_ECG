@@ -1,0 +1,17 @@
+../drivers/fsl_clock.h:701:20:CLOCK_EnableClock	24	static
+../drivers/fsl_lcdc.c:99:17:LCDC_GetInstance	24	static
+../drivers/fsl_lcdc.c:117:13:LCDC_GetClockDivider	32	static
+../drivers/fsl_lcdc.c:192:10:LCDC_Init	40	static
+../drivers/fsl_lcdc.c:262:6:LCDC_Deinit	16	static
+../drivers/fsl_lcdc.c:269:6:LCDC_GetDefaultConfig	16	static
+../drivers/fsl_lcdc.c:292:6:LCDC_SetPanelAddr	24	static
+../drivers/fsl_lcdc.c:307:6:LCDC_SetPalette	32	static
+../drivers/fsl_lcdc.c:319:6:LCDC_EnableInterrupts	24	static
+../drivers/fsl_lcdc.c:336:6:LCDC_DisableInterrupts	24	static
+../drivers/fsl_lcdc.c:353:10:LCDC_GetInterruptsPendingStatus	24	static
+../drivers/fsl_lcdc.c:363:10:LCDC_GetEnabledInterruptsPendingStatus	24	static
+../drivers/fsl_lcdc.c:373:6:LCDC_ClearInterruptsStatus	24	static
+../drivers/fsl_lcdc.c:390:6:LCDC_SetCursorConfig	24	static
+../drivers/fsl_lcdc.c:427:6:LCDC_CursorGetDefaultConfig	24	static
+../drivers/fsl_lcdc.c:446:6:LCDC_SetCursorPosition	32	static
+../drivers/fsl_lcdc.c:487:6:LCDC_SetCursorImage	40	static

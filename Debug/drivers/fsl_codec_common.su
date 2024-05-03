@@ -1,0 +1,4 @@
+../drivers/fsl_codec_common.c:44:10:CODEC_I2C_WriteReg	40	static
+../drivers/fsl_codec_common.c:75:10:CODEC_I2C_ReadReg	48	static
+../drivers/fsl_codec_common.c:99:10:CODEC_I2C_ModifyReg	40	static
+../drivers/fsl_codec_common.c:123:10:CODEC_Init	16	static

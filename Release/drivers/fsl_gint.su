@@ -1,0 +1,11 @@
+fsl_gint.c:42:17:GINT_GetInstance.part.1	0	static
+fsl_gint.c:69:6:GINT_Init	8	static
+fsl_gint.c:100:6:GINT_SetCtrl	16	static
+fsl_gint.c:124:6:GINT_GetCtrl	16	static
+fsl_gint.c:149:6:GINT_ConfigPins	0	static
+fsl_gint.c:171:6:GINT_GetConfigPins	0	static
+fsl_gint.c:187:6:GINT_EnableCallback	8	static
+fsl_gint.c:209:6:GINT_DisableCallback	8	static
+fsl_gint.c:228:6:GINT_Deinit	16	static
+fsl_gint.c:251:6:GINT0_DriverIRQHandler	8	static
+fsl_gint.c:269:6:GINT1_DriverIRQHandler	8	static

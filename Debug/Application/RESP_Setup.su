@@ -1,0 +1,5 @@
+../Application/RESP_Setup.c:99:7:_cbRESPSetupWin	80	static
+../Application/RESP_Setup.c:228:6:CreateRESPSetupwindow	16	static
+../Application/RESP_Setup.c:242:15:GetRESPApneaMenuSeting	4	static
+../Application/RESP_Setup.c:247:15:GetRESPModulesenstivityMenuSetting	24	static
+../Application/RESP_Setup.c:254:15:GetRESPModuleLEADMenuSetting	4	static

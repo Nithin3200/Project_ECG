@@ -1,0 +1,2 @@
+../Application/DF_ECGTrendScreen.c:39:6:_cbECGTrendDisplayWin	104	static
+../Application/DF_ECGTrendScreen.c:175:6:Create_ECG_TrendsScreen	16	static

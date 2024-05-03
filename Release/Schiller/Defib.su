@@ -1,0 +1,4 @@
+Defib.c:78:6:CRC_Check	16	static
+Defib.c:92:6:Compute_CRC	12	static
+Defib.c:156:6:Decode_DefibFrameType1	24	static
+Defib.c:103:6:Decode_Defib_Data	12	static

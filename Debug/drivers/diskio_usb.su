@@ -1,0 +1,5 @@
+../drivers/diskio_usb.c:77:9:u_disk_status	24	static
+../drivers/diskio_usb.c:126:9:u_disk_initialize	24	static
+../drivers/diskio_usb.c:178:11:u_disk_read	32	static
+../drivers/diskio_usb.c:232:11:u_disk_write	32	static
+../drivers/diskio_usb.c:284:11:u_disk_ioctl	24	static

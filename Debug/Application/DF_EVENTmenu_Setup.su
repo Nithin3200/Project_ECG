@@ -1,0 +1,2 @@
+../Application/DF_EVENTmenu_Setup.c:75:6:_cbEVENT_menuSetupWin	72	static
+../Application/DF_EVENTmenu_Setup.c:209:6:CreateEVENT_menuSetupwindow	16	static

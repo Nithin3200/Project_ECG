@@ -1,0 +1,5 @@
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_usart.h:488:20:USART_WriteByte	16	static
+../Schiller/Paddle.c:52:6:Decode_Paddle_Data	16	static
+../Schiller/Paddle.c:91:6:Decode_PaddleFrame	8	static
+../Schiller/Paddle.c:232:6:Transmit_PaddleFrame	16	static

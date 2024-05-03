@@ -1,0 +1,4 @@
+../Application/DF_PatientWindow.c:125:6:_cbPatientAdmitWin	96	static
+../Application/DF_PatientWindow.c:343:6:CreatePatientAdmitwindow	16	static
+../Application/DF_PatientWindow.c:359:15:GetMaxDateBasedonMonth	24	static
+../Application/DF_PatientWindow.c:378:6:SavePatientInformationToMenusetting	16	static

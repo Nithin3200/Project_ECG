@@ -1,0 +1,10 @@
+fsl_adc.c:48:6:ADC_Init	0	static
+fsl_adc.c:149:6:ADC_GetDefaultConfig	8	static
+fsl_adc.c:182:6:ADC_Deinit	0	static
+fsl_adc.c:203:6:ADC_DoSelfCalibration	16	static
+fsl_adc.c:268:6:ADC_DoOffsetCalibration	24	static
+fsl_adc.c:388:6:ADC_SetConvSeqAConfig	0	static
+fsl_adc.c:439:6:ADC_SetConvSeqBConfig	0	static
+fsl_adc.c:492:6:ADC_GetConvSeqAGlobalConversionResult	0	static
+fsl_adc.c:524:6:ADC_GetConvSeqBGlobalConversionResult	0	static
+fsl_adc.c:557:6:ADC_GetChannelConversionResult	0	static

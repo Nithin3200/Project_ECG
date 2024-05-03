@@ -1,0 +1,4 @@
+../Application/AlarmDisplayInterface.c:95:6:Set_Err_Message	40	static
+../Application/AlarmDisplayInterface.c:278:6:Remove_Err_Message	24	static
+../Application/AlarmDisplayInterface.c:409:6:DisplayErrorMessages	24	static
+../Application/AlarmDisplayInterface.c:441:6:Sort_BY_Priority	128	static

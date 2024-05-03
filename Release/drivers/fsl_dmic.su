@@ -1,0 +1,17 @@
+fsl_dmic.c:55:10:DMIC_GetInstance.part.1	0	static
+fsl_dmic.c:55:10:DMIC_GetInstance	0	static
+fsl_dmic.c:78:6:DMIC_Init	8	static
+fsl_dmic.c:109:6:DMIC_DeInit	0	static
+fsl_dmic.c:127:6:DMIC_ConfigIO	0	static
+fsl_dmic.c:141:6:DMIC_SetOperationMode	0	static
+fsl_dmic.c:166:6:DMIC_ConfigChannel	12	static
+fsl_dmic.c:195:6:DMIC_CfgChannelDc	8	static
+fsl_dmic.c:212:6:DMIC_Use2fs	0	static
+fsl_dmic.c:223:6:DMIC_EnableChannnel	0	static
+fsl_dmic.c:237:6:DMIC_FifoChannel	12	static
+fsl_dmic.c:255:6:DMIC_EnableIntCallback	8	static
+fsl_dmic.c:275:6:DMIC_DisableIntCallback	8	static
+fsl_dmic.c:295:6:DMIC_HwvadEnableIntCallback	8	static
+fsl_dmic.c:315:6:DMIC_HwvadDisableIntCallback	8	static
+fsl_dmic.c:328:6:DMIC0_DriverIRQHandler	8	static
+fsl_dmic.c:341:6:HWVAD0_DriverIRQHandler	8	static

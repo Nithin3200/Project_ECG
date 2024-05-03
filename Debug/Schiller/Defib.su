@@ -1,0 +1,11 @@
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_usart.h:488:20:USART_WriteByte	16	static
+../Schiller/Defib.c:165:6:Critical_Defib_Rx_Int_Flags_Reset	4	static
+../Schiller/Defib.c:172:15:CRC_Check	24	static
+../Schiller/Defib.c:187:6:All_Charge_Flags_Reset	4	static
+../Schiller/Defib.c:195:6:All_Energy_Sel_Flags_Reset	4	static
+../Schiller/Defib.c:204:6:Critical_Variable_Reset	4	static
+../Schiller/Defib.c:228:6:Safety_Timeout_Fn	8	static
+../Schiller/Defib.c:273:6:Update_Default_Energy_Sync	4	static
+../Schiller/Defib.c:307:15:Compute_CRC	24	static
+../Schiller/Defib.c:318:6:Decode_Defib_Data	16	static
+../Schiller/Defib.c:386:6:Decode_DefibFrameType1	16	static

@@ -1,0 +1,2 @@
+../Schiller/NIBP.c:33:6:Decode_NIBP_Data	16	static
+../Schiller/NIBP.c:64:6:Decode_NIBP_Frame	24	static

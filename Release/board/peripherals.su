@@ -1,0 +1,16 @@
+peripherals.c:125:6:ADC0_init	0	static
+peripherals.c:221:6:DMIC0_init	8	static
+peripherals.c:281:6:FLEXCOMM0_init	8	static
+peripherals.c:334:6:FLEXCOMM1_init	8	static
+peripherals.c:388:6:FLEXCOMM2_init	8	static
+peripherals.c:441:6:FLEXCOMM3_init	8	static
+peripherals.c:494:6:FLEXCOMM4_init	8	static
+peripherals.c:547:6:FLEXCOMM5_init	8	static
+peripherals.c:584:6:FLEXCOMM7_init	8	static
+peripherals.c:638:6:FLEXCOMM8_init	8	static
+peripherals.c:692:6:FLEXCOMM9_init	8	static
+peripherals.c:777:6:PINT_init	8	static
+peripherals.c:828:6:RTC_init	0	static
+peripherals.c:887:6:SCT0_init	0	static
+peripherals.c:894:6:BOARD_InitPeripherals	8	static
+peripherals.c:916:6:BOARD_InitBootPeripherals	0	static

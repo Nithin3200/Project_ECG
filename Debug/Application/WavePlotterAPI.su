@@ -1,0 +1,8 @@
+../Application/WavePlotterAPI.c:25:7:GetPixelPerMM	4	static
+../Application/WavePlotterAPI.c:31:15:GetECGGain	4	static
+../Application/WavePlotterAPI.c:36:7:GetSamplingRate	16	static
+../Application/WavePlotterAPI.c:55:6:SetHorizontalResolution	24	static
+../Application/WavePlotterAPI.c:69:6:SetVerticalResolution	32	static
+../Application/WavePlotterAPI.c:80:7:GetHorizontalResolution	16	static
+../Application/WavePlotterAPI.c:91:7:GetVerticalResolution	16	static
+../Application/WavePlotterAPI.c:110:6:Draw_Live_Waveform	472	static

@@ -1,0 +1,3 @@
+../Application/DF_NIBP_Setup.c:96:6:_cbNIBPSetupWin	88	static
+../Application/DF_NIBP_Setup.c:294:6:CreateNIBPSetupwindow	16	static
+../Application/DF_NIBP_Setup.c:309:7:ComputeNIBPeratureValues	24	static

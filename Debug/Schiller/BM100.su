@@ -1,0 +1,2 @@
+../Schiller/BM100.c:172:6:Critical_BM100Rx_Int_Flags_Reset	4	static
+../Schiller/BM100.c:214:6:Send_ECG_Data	8	static

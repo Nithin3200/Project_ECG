@@ -1,0 +1,19 @@
+D:\work folder\NithinGit\Nithin_ADCModule\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_ctimer.h:317:24:CTIMER_GetTimerCountValue	16	static
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_lcdc.h:298:20:LCDC_Start	16	static
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_lcdc.h:324:20:LCDC_PowerUp	16	static
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_lcdc.h:378:20:LCDC_SetVerticalInterruptMode	16	static
+../board/emwin_support.c:167:6:LCD_IRQHandler	16	static
+../board/emwin_support.c:201:6:LCD_X_Config	40	static
+../board/emwin_support.c:240:5:LCD_X_DisplayDriver	48	static
+../board/emwin_support.c:296:6:GUI_X_Config	32	static
+../board/emwin_support.c:320:6:GUI_X_Init	4	static
+../board/emwin_support.c:344:6:GUI_X_InitOS	4	static
+../board/emwin_support.c:357:6:GUI_X_Lock	4	static
+../board/emwin_support.c:365:6:GUI_X_Unlock	4	static
+../board/emwin_support.c:373:5:GUI_X_GetTaskId	4	static
+../board/emwin_support.c:380:6:GUI_X_ExecIdle	8	static
+../board/emwin_support.c:385:16:GUI_X_GetTime	8	static
+../board/emwin_support.c:392:6:GUI_X_Delay	24	static
+../board/emwin_support.c:401:7:emWin_memcpy	24	static
+../board/emwin_support.c:405:10:APP_LCDC_Init	48	static

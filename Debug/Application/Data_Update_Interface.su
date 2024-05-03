@@ -1,0 +1,10 @@
+../Application/Data_Update_Interface.c:52:6:SaveDecoderDataToBuffer	16	static
+../Application/Data_Update_Interface.c:64:7:GetNumberOfsamples	24	static
+../Application/Data_Update_Interface.c:91:6:GetWaveSampleBuffer	24	static
+../Application/Data_Update_Interface.c:119:6:SetParamValue	16	static
+../Application/Data_Update_Interface.c:131:6:SetParamUpdated	16	static
+../Application/Data_Update_Interface.c:138:5:GetParameterValue	16	static
+../Application/Data_Update_Interface.c:142:6:ResetUpdate	16	static
+../Application/Data_Update_Interface.c:148:16:isParameterUpdated	16	static
+../Application/Data_Update_Interface.c:156:7:Get_ALM_High_Limit	24	static
+../Application/Data_Update_Interface.c:208:7:Get_ALM_Low_Limit	24	static

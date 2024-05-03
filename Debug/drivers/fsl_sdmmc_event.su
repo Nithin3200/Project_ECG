@@ -1,0 +1,10 @@
+D:\DIGI-400\SOFTWARE\DIGI-400_11_08_2022\x\CMSIS/core_cm4.h:1807:22:__NVIC_SetPriority	16	static
+D:\DIGI-400\SOFTWARE\DIGI-400_11_08_2022\x\CMSIS/core_cm4.h:2014:26:SysTick_Config	16	static
+../drivers/fsl_sdmmc_event.c:68:6:SDMMCEVENT_InitTimer	8	static
+../drivers/fsl_sdmmc_event.c:74:6:SysTick_Handler	4	static
+../drivers/fsl_sdmmc_event.c:79:27:SDMMCEVENT_GetInstance	24	static
+../drivers/fsl_sdmmc_event.c:99:6:SDMMCEVENT_Create	24	static
+../drivers/fsl_sdmmc_event.c:114:6:SDMMCEVENT_Wait	32	static
+../drivers/fsl_sdmmc_event.c:138:6:SDMMCEVENT_Notify	24	static
+../drivers/fsl_sdmmc_event.c:153:6:SDMMCEVENT_Delete	24	static
+../drivers/fsl_sdmmc_event.c:163:6:SDMMCEVENT_Delay	24	static

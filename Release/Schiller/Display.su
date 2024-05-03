@@ -1,0 +1,12 @@
+Display.c:2808:6:PutOtherBigSymbol	36	static
+Display.c:2848:6:PutSuperBigSymbol	36	static
+Display.c:2889:6:PutChar	32	static
+Display.c:2923:6:PutString	48	static
+Display.c:2938:6:Fill_Rectangle	20	static
+Display.c:2955:6:Clear_Screen	0	static
+Display.c:2969:6:Clear_Rectangle	20	static
+Display.c:2985:6:PutBigChar	48	static
+Display.c:3021:6:PutBigString	48	static
+Display.c:3033:6:PutSuperBigString	48	static
+Display.c:3046:6:Draw_Line	20	static
+Display.c:3137:6:DrawBackgrounds	0	static

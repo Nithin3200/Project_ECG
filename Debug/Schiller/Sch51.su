@@ -1,0 +1,5 @@
+../Schiller/Sch51.c:43:6:SCH_Init	16	static
+../Schiller/Sch51.c:64:6:SCH_Dispatch_Tasks	16	static
+../Schiller/Sch51.c:138:7:SCH_Add_Task	32	static
+../Schiller/Sch51.c:187:15:SCH_Delete_Task	24	static
+../Schiller/Sch51.c:236:6:SCH_Report_Status	4	static

@@ -1,0 +1,4 @@
+Paddle.c:70:6:Decode_PaddleFrame	0	static
+Paddle.c:37:6:Decode_Paddle_Data	16	static
+Paddle.c:159:6:Transmit_PaddleFrame	0	static
+Paddle.c:177:6:Check_Pads	8	static

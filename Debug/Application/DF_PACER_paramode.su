@@ -1,0 +1,7 @@
+../Application/DF_PACER_paramode.c:117:6:_cbPACER_ParaSetupWin	56	static
+../Application/DF_PACER_paramode.c:209:6:_cbPACER_ParaSetup_PADLEWin	56	static
+../Application/DF_PACER_paramode.c:290:6:_cbPACER_ParaSetup_IMPEDANCEWin	56	static
+../Application/DF_PACER_paramode.c:371:6:_cbPACER_ParaSetup_PACERWin	56	static
+../Application/DF_PACER_paramode.c:452:6:_cbPACER_ParaSetup_ONOFFWin	56	static
+../Application/DF_PACER_paramode.c:533:6:_cbPACER_ParaSetup_DEMANDWin	56	static
+../Application/DF_PACER_paramode.c:637:6:CreatePACER_ParaSetupwindow	4	static

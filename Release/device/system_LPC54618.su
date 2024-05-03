@@ -1,0 +1,4 @@
+system_LPC54618.c:72:17:getWdtOscFreq	0	static
+system_LPC54618.c:287:6:SystemCoreClockUpdate	16	static
+system_LPC54618.c:363:29:SystemInitHook	0	static
+system_LPC54618.c:263:6:SystemInit	8	static

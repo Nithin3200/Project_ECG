@@ -1,0 +1,5 @@
+fsl_sd_disk.c:63:9:sd_disk_write	8	static
+fsl_sd_disk.c:78:9:sd_disk_read	8	static
+fsl_sd_disk.c:93:9:sd_disk_ioctl	0	static
+fsl_sd_disk.c:145:9:sd_disk_status	0	static
+fsl_sd_disk.c:155:9:sd_disk_initialize	8	static

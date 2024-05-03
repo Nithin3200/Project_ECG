@@ -1,0 +1,8 @@
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_clock.h:924:26:CLOCK_GetEmcClkFreq	16	static
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_emc.h:254:20:EMC_Enable	16	static
+../board/board.c:59:6:BOARD_InitDebugConsole	4	static
+../board/board.c:63:6:BOARD_InitSDRAM	80	static
+../board/board.c:114:6:BOARD_InitSRAM	112	static
+../board/board.c:157:6:BOARD_InitPWM	40	static
+../board/board.c:178:6:BOARD_I2C_Init	16	static
+../board/board.c:186:6:Delay1	24	static

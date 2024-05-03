@@ -1,0 +1,5 @@
+D:\work folder\NithinGit\Nithin_ADCModule\drivers/fsl_clock.h:701:20:CLOCK_EnableClock	24	static
+../source/LPC54618J512_DG400_1.c:276:11:SDRAM_DataBusCheck	24	static
+../source/LPC54618J512_DG400_1.c:294:11:SDRAM_AddressBusCheck	48	static
+../source/LPC54618J512_DG400_1.c:374:7:BOARD_TestSDRAM	24	static
+../source/LPC54618J512_DG400_1.c:453:5:main	480	static

@@ -1,0 +1,14 @@
+fsl_codec_8814.c:46:10:NAU8814_Init	24	static
+fsl_codec_8814.c:270:10:NAU8814_Deinit	16	static
+fsl_codec_8814.c:276:6:NAU8814_GetDefaultConfig	16	static
+fsl_codec_8814.c:287:10:NAU8814_SetMasterSlave	16	static
+fsl_codec_8814.c:298:10:NAU8814_SetProtocol	16	static
+fsl_codec_8814.c:303:10:NAU8814_SetAudioFormat	40	static
+fsl_codec_8814.c:396:10:NAU8814_SetVolume	24	static
+fsl_codec_8814.c:415:10:NAU8814_SetMute	24	static
+fsl_codec_8814.c:436:10:NAU8814_PrintRegisters	32	static
+fsl_codec_8814.c:458:17:NAU8814_UpdateFormat	24	static
+fsl_codec_8814.c:494:17:NAU8814_WaitOnWriteSequencer	24	static
+fsl_codec_8814.c:507:17:NAU8814_WriteRegister	32	static
+fsl_codec_8814.c:517:17:NAU8814_ReadRegister	40	static
+fsl_codec_8814.c:527:17:NAU8814_ModifyRegister	32	static

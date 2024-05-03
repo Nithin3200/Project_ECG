@@ -1,0 +1,12 @@
+../Schiller/Display.c:9:6:PutOtherBigSymbol	24	static
+../Schiller/Display.c:12:6:PutSuperBigSymbol	24	static
+../Schiller/Display.c:16:6:PutChar	24	static
+../Schiller/Display.c:19:6:PutString	24	static
+../Schiller/Display.c:25:6:Fill_Rectangle	24	static
+../Schiller/Display.c:29:6:Clear_Screen	16	static
+../Schiller/Display.c:32:6:Clear_Rectangle	24	static
+../Schiller/Display.c:35:6:PutBigChar	24	static
+../Schiller/Display.c:38:6:PutBigString	24	static
+../Schiller/Display.c:44:6:PutSuperBigString	24	static
+../Schiller/Display.c:51:6:Draw_Line	24	static
+../Schiller/Display.c:55:6:DrawBackgrounds	4	static

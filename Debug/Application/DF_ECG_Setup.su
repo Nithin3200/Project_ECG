@@ -1,0 +1,2 @@
+../Application/DF_ECG_Setup.c:91:6:_cbECGSetupWin	96	static
+../Application/DF_ECG_Setup.c:268:6:CreateECGSetupwindow	16	static

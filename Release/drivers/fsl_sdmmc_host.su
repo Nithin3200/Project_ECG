@@ -1,0 +1,13 @@
+fsl_sdmmc_host.c:112:13:SDMMCHOST_DetectCardRemoveByHost	0	static
+fsl_sdmmc_host.c:99:13:SDMMCHOST_DetectCardInsertByHost	16	static
+fsl_sdmmc_host.c:123:13:SDMMCHOST_TransferCompleteCallback	0	static
+fsl_sdmmc_host.c:139:17:SDMMCHOST_TransferFunction	40	static
+fsl_sdmmc_host.c:217:6:SDMMCHOST_Delay	0	static
+fsl_sdmmc_host.c:222:10:SDMMCHOST_WaitCardDetectStatus	16	static
+fsl_sdmmc_host.c:246:6:SDMMCHOST_IsCardPresent	0	static
+fsl_sdmmc_host.c:251:6:SDMMCHOST_PowerOffCard	8	static
+fsl_sdmmc_host.c:267:6:SDMMCHOST_PowerOnCard	8	static
+fsl_sdmmc_host.c:284:10:SDMMCHOST_Init	40	static
+fsl_sdmmc_host.c:324:6:SDMMCHOST_Reset	0	static
+fsl_sdmmc_host.c:329:6:SDMMCHOST_Deinit	8	static
+fsl_sdmmc_host.c:336:6:SDMMCHOST_ErrorRecovery	0	static

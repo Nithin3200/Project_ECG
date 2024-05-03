@@ -1,0 +1,6 @@
+GPIO.c:47:6:Flash_Alarm_LED	0	static
+GPIO.c:105:6:Read_Rotary_Switch	16	static
+GPIO.c:141:6:Read_Keypanel_Switch	24	static
+GPIO.c:492:6:Check_OtherGPIO	0	static
+GPIO.c:514:6:Change_PaddleECG_Gain	0	static
+GPIO.c:528:6:PowerDown	0	static

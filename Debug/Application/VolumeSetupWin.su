@@ -1,0 +1,2 @@
+../Application/VolumeSetupWin.c:57:7:_cbVolumeSetupWin	64	static
+../Application/VolumeSetupWin.c:172:6:CreateVolumeSetupWin	16	static

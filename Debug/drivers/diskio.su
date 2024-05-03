@@ -1,0 +1,5 @@
+../drivers/diskio.c:77:9:disk_status	24	static
+../drivers/diskio.c:126:9:disk_initialize	24	static
+../drivers/diskio.c:178:9:disk_read	32	static
+../drivers/diskio.c:232:9:disk_write	32	static
+../drivers/diskio.c:284:9:disk_ioctl	24	static

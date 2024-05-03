@@ -1,0 +1,2 @@
+../Application/DF_SPO2_Setup.c:84:6:_cbSpo2setupWin	88	static
+../Application/DF_SPO2_Setup.c:221:6:CreateSPO2setupwindow	16	static

@@ -1,0 +1,5 @@
+fsl_crc.c:48:6:CRC_Init	16	static
+fsl_crc.c:81:6:CRC_GetDefaultConfig	8	static
+fsl_crc.c:98:6:CRC_Reset	24	static
+fsl_crc.c:113:6:CRC_GetConfig	0	static
+fsl_crc.c:143:6:CRC_WriteData	12	static

@@ -1,0 +1,6 @@
+../drivers/fsl_RTC8563.c:75:10:Read_RTC_8653	32	static
+../drivers/fsl_RTC8563.c:112:10:Write_RTC_8563	32	static
+../drivers/fsl_RTC8563.c:197:6:BCDtoBinary	24	static
+../drivers/fsl_RTC8563.c:205:6:BinarytoBCD	24	static
+../drivers/fsl_RTC8563.c:215:6:RTC_read	16	static
+../drivers/fsl_RTC8563.c:303:6:RTC_write	16	static

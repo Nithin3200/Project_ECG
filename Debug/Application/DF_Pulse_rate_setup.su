@@ -1,0 +1,2 @@
+../Application/DF_Pulse_rate_setup.c:85:6:_cbPulseRatesetupWin	88	static
+../Application/DF_Pulse_rate_setup.c:223:6:CreatePulseRatesetupwindow	16	static

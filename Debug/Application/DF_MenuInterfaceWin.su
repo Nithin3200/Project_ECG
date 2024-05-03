@@ -1,0 +1,6 @@
+../Application/DF_MenuInterfaceWin.c:99:6:_cbMAIN_menuSetupWin	72	static
+../Application/DF_MenuInterfaceWin.c:236:6:SelectMainScreenwindow	8	static
+../Application/DF_MenuInterfaceWin.c:289:7:CloseMenuSetupwin	8	static
+../Application/DF_MenuInterfaceWin.c:296:6:OpenSubmenuWindow	16	static
+../Application/DF_MenuInterfaceWin.c:384:6:CreateMenuWindow	16	static
+../Application/DF_MenuInterfaceWin.c:399:14:GetMenuNavigationID	16	static

@@ -1,0 +1,13 @@
+usb_device_msc.c:163:21:USB_DeviceMscAllocateHandle	48	static
+usb_device_msc.c:200:21:USB_DeviceMscFreeHandle	16	static
+usb_device_msc.c:218:14:USB_DeviceMscProcessUfiCommand	24	static
+usb_device_msc.c:309:21:USB_DeviceMscBulkIn	72	static
+usb_device_msc.c:429:14:USB_DeviceMscBulkOut	64	static
+usb_device_msc.c:618:14:USB_DeviceMscEndpointsInit	56	static
+usb_device_msc.c:718:14:USB_DeviceMscEndpointsDeinit	24	static
+usb_device_msc.c:748:14:USB_DeviceMscInit	40	static
+usb_device_msc.c:808:14:USB_DeviceMscDeinit	24	static
+usb_device_msc.c:838:14:USB_DeviceMscEvent	112	static
+usb_device_msc.c:1125:14:USB_DeviceMscSend	40	static
+usb_device_msc.c:1182:14:USB_DeviceMscRecv	40	static
+usb_device_msc.c:1234:14:USB_DeviceMscLbaTransfer	32	static

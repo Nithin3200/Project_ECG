@@ -1,0 +1,3 @@
+../Application/NIBPSetupwindow.c:62:13:_cbNIBPSetupWin	96	static
+../Application/NIBPSetupwindow.c:185:6:CreateNIBPSetupwindow	16	static
+../Application/NIBPSetupwindow.c:197:15:GetMeasurementModeMenuSetting	24	static

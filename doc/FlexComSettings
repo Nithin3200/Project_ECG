@@ -1,0 +1,9 @@
+  FLEXCOMM0_init();  //HV Board 9600 baudrate
+  FLEXCOMM1_init(); //Paddle Processor 19200 baudrate
+  FLEXCOMM2_init(); //BM100 115200
+  FLEXCOMM3_init(); //SPO2 Digital 4800, odd parity
+  FLEXCOMM4_init(); //Pacer 4800
+  FLEXCOMM5_init(); //NIBP Digital 4800
+  FLEXCOMM7_init(); //I2C
+  FLEXCOMM8_init(); //12Lead ECG
+  FLEXCOMM9_init(); //Printer

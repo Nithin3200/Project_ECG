@@ -1,0 +1,8 @@
+../Application/DF_ScreenSetupWin.c:338:6:CreateWAVEFORM_MENUSetupwindow	16	static
+../Application/DF_ScreenSetupWin.c:353:6:FormWaveformChannelConfigArray	16	static
+../Application/DF_ScreenSetupWin.c:460:8:GatWaveFormTypeavailable	0	static
+../Application/DF_ScreenSetupWin.c:466:6:Remove_DD_Widget_DuplicationIndexes	24	static
+../Application/DF_ScreenSetupWin.c:153:6:_cbWAVEFORM_MENUSetupWin	56	static
+../Application/DF_ScreenSetupWin.c:525:6:LoadSTDWaveformDefaultSetting	0	static
+../Application/DF_ScreenSetupWin.c:554:15:GetOrignalMappingarrayIndex	16	static
+../Application/DF_ScreenSetupWin.c:585:15:Get_WaveformChannelIndex	0	static

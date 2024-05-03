@@ -1,0 +1,3 @@
+../Schiller/SDCard.c:164:6:Initialize_SDCard	24	static
+../Schiller/SDCard.c:198:17:sdcardWaitCardInsert	8	static
+../Schiller/SDCard.c:233:5:Open_Audio_File	16	static

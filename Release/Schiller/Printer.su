@@ -1,0 +1,2 @@
+Printer.c:69:6:Decode_TP_Data	0	static
+Printer.c:82:6:Transmit_to_TP	24	static

@@ -1,0 +1,3 @@
+NIBP.c:63:6:Decode_NIBP_Frame	16	static
+NIBP.c:33:6:Decode_NIBP_Data	16	static
+NIBP.c:148:6:Transmit_to_NIBP	0	static

@@ -1,0 +1,8 @@
+D:\DIGI-400\SOFTWARE\DIGI-400_29_07_2022\x\drivers/fsl_usart.h:488:20:USART_WriteByte	16	static
+../Application/BM100CommandEncoder.c:10:6:ECG_BM100_Commands	40	static
+../Application/BM100CommandEncoder.c:173:6:NIBP_BM100_Commands	32	static
+../Application/BM100CommandEncoder.c:371:6:RESP_BM100_Commands	24	static
+../Application/BM100CommandEncoder.c:438:6:Spo2_BM100_Commands	24	static
+../Application/BM100CommandEncoder.c:547:6:Temp_BM100_Commands	24	static
+../Application/BM100CommandEncoder.c:576:6:GetSystemInformation	24	static
+../Application/BM100CommandEncoder.c:588:16:Calculate_CheckSum_BM100	24	static

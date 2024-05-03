@@ -1,0 +1,6 @@
+../drivers/fsl_gasgauge.c:705:6:Gasguage_read	64	static
+../drivers/fsl_gasgauge.c:711:6:Gasguage_write	64	static
+../drivers/fsl_gasgauge.c:719:6:Data_Flash_Block_Edit	88	static
+../drivers/fsl_gasgauge.c:3471:10:Data_Flash_Block_Operation	32	static
+../drivers/fsl_gasgauge.c:3693:10:Write_BQ_34Z100	40	static
+../drivers/fsl_gasgauge.c:3829:10:Read_BQ_34Z100	72	static

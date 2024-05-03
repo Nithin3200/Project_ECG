@@ -1,0 +1,5 @@
+../Schiller/USB.c:123:15:WriteTOusb	64	static
+../Schiller/USB.c:319:16:GetUSBErrNo	4	static
+../Schiller/USB.c:331:6:ResetUSBErrNo	4	static
+../Schiller/USB.c:358:6:ReadDataFromUSB	24	static
+../Schiller/USB.c:489:6:Save_BMP_screenshotTOUsb	376	static

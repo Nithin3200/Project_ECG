@@ -1,0 +1,6 @@
+D:\Enhanced_GUI_DIGI400Project\x\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_common.h:460:28:EnableIRQ	16	static
+../Schiller/Printer.c:116:6:USART_UserCallback	24	static
+../Schiller/Printer.c:124:6:Decode_TP_Data	16	static
+../Schiller/Printer.c:148:6:Transmit_to_TP	32	static
+../Schiller/Printer.c:188:6:PreparePrintPage	48	static

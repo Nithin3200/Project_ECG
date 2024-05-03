@@ -1,0 +1,10 @@
+../drivers/fsl_sdif.h:456:20:SDIF_EnableCardClock	16	static
+../drivers/fsl_sdif.h:793:24:SDIF_GetControllerStatus	16	static
+../drivers/fsl_sdmmc_common.c:44:10:SDMMC_SelectCard	72	static
+../drivers/fsl_sdmmc_common.c:77:10:SDMMC_SendApplicationCommand	72	static
+../drivers/fsl_sdmmc_common.c:105:10:SDMMC_SetBlockCount	72	static
+../drivers/fsl_sdmmc_common.c:126:10:SDMMC_GoIdle	64	static
+../drivers/fsl_sdmmc_common.c:145:10:SDMMC_SetBlockSize	72	static
+../drivers/fsl_sdmmc_common.c:166:10:SDMMC_SetCardInactive	64	static
+../drivers/fsl_sdmmc_common.c:187:10:SDMMC_SwitchVoltage	64	static
+../drivers/fsl_sdmmc_common.c:238:10:SDMMC_ExecuteTuning	224	static

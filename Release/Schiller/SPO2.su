@@ -1,0 +1,4 @@
+SPO2.c:153:6:Decode_Spo2Frame	200	static
+SPO2.c:410:15:CRC_Check2_Xmit	8	static
+SPO2.c:419:15:CRC_Check2	12	static
+SPO2.c:76:6:Spo2_Decode_Data	24	static

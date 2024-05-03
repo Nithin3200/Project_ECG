@@ -1,0 +1,8 @@
+fsl_usart_dma.c:42:13:USART_TransferSendDMACallback	4	static
+fsl_usart_dma.c:66:13:USART_TransferReceiveDMACallback	4	static
+fsl_usart_dma.c:94:10:USART_TransferCreateHandleDMA	32	static
+fsl_usart_dma.c:161:10:USART_TransferSendDMA	64	static
+fsl_usart_dma.c:213:10:USART_TransferReceiveDMA	64	static
+fsl_usart_dma.c:260:6:USART_TransferAbortSendDMA	8	static
+fsl_usart_dma.c:278:6:USART_TransferAbortReceiveDMA	8	static
+fsl_usart_dma.c:300:10:USART_TransferGetReceiveCountDMA	16	static

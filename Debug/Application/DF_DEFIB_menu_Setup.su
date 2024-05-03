@@ -1,0 +1,2 @@
+../Application/DF_DEFIB_menu_Setup.c:82:6:_cbDEFIBSetupWin	80	static
+../Application/DF_DEFIB_menu_Setup.c:199:6:CreateDEFIBSetupwindow	16	static

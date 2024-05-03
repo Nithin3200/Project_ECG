@@ -1,0 +1,3 @@
+../Application/DF_ETCO2_Setup.c:91:6:_cbETCO2SetupWin	104	static
+../Application/DF_ETCO2_Setup.c:290:6:CreateETCO2Setupwindow	16	static
+../Application/DF_ETCO2_Setup.c:301:7:ComputemmHgValues	24	static

@@ -1,0 +1,4 @@
+fsl_usart.h:488:20:USART_WriteByte	16	static
+USB_hid.c:64:6:WriteTOusb	24	static
+USB_hid.c:197:6:Read_Usb_event_pointers	4	static
+USB_hid.c:204:6:Write_Usb_event_pointers	4	static

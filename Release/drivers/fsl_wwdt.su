@@ -1,0 +1,5 @@
+fsl_wwdt.c:92:6:WWDT_GetDefaultConfig	8	static
+fsl_wwdt.c:135:6:WWDT_Init	16	static
+fsl_wwdt.c:196:6:WWDT_Deinit	0	static
+fsl_wwdt.c:214:6:WWDT_Refresh	0	static
+fsl_wwdt.c:238:6:WWDT_ClearStatusFlags	0	static

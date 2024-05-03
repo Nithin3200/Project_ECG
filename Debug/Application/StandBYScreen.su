@@ -1,0 +1,3 @@
+../Application/StandBYScreen.c:42:7:_cbStandbyWin	48	static
+../Application/StandBYScreen.c:118:6:CreateStandBYscreen	16	static
+../Application/StandBYScreen.c:128:6:DisplayandToggleStandBY_text_and_Image	24	static

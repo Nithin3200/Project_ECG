@@ -1,0 +1,4 @@
+E:\DIGI400\SOURCE CODE\DG400_Updation_08_july_2022\drivers/fsl_usart.h:488:20:USART_WriteByte	16	static
+../Application/Spo2Setupwondow.c:90:7:_cbSpo2SetupWin	80	static
+../Application/Spo2Setupwondow.c:240:6:CreateSPO2Setupwindow	16	static
+../Application/Spo2Setupwondow.c:253:15:GetSpo2ModulesenstivityMenuSetting	16	static

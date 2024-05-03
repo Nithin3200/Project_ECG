@@ -1,0 +1,3 @@
+../Application/DF_IBP_Setup.c:107:6:_cbIBPSetupWin	112	static
+../Application/DF_IBP_Setup.c:316:6:CreateIBPSetupwindow	16	static
+../Application/DF_IBP_Setup.c:331:7:ComputeIBPeratureValues	24	static

@@ -1,0 +1,3 @@
+../Schiller/Trend.c:79:6:Update_Trend_values	4	static
+../Schiller/Trend.c:156:6:Update_Event_values	8	static
+../Schiller/Trend.c:238:6:Update_DefibEventvalues	4	static

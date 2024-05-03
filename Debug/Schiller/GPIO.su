@@ -1,0 +1,5 @@
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+D:\Enhanced_GUI_DIGI400Project\x\drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+../Schiller/GPIO.c:83:6:Read_Keypanel_Switch	8	static
+../Schiller/GPIO.c:134:6:Change_PaddleECG_Gain	16	static
+../Schiller/GPIO.c:148:6:PowerDown	24	static

@@ -1,0 +1,7 @@
+ETCO2.c:541:6:Get_Status_Summary	0	static
+ETCO2.c:229:6:Decode_CapnoFrame	16	static
+ETCO2.c:658:6:CapnoInvalRead	0	static
+ETCO2.c:667:5:ConvCo2PercTommHg	0	static
+ETCO2.c:680:6:Capno_Checksum_cal	0	static
+ETCO2.c:75:6:Decode_Capno_Data	16	static
+ETCO2.c:553:6:Transmit_to_Capno	16	static

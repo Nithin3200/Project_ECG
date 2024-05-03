@@ -1,0 +1,8 @@
+../Application/DF_WAVEFORM_menu_Setup.c:152:6:_cbWAVEFORM_MENUSetupWin	96	static
+../Application/DF_WAVEFORM_menu_Setup.c:337:6:CreateWAVEFORM_MENUSetupwindow	16	static
+../Application/DF_WAVEFORM_menu_Setup.c:352:6:FormWaveformChannelConfigArray	8	static
+../Application/DF_WAVEFORM_menu_Setup.c:459:8:GatWaveFormTypeavailable	4	static
+../Application/DF_WAVEFORM_menu_Setup.c:465:6:Remove_DD_Widget_DuplicationIndexes	32	static
+../Application/DF_WAVEFORM_menu_Setup.c:524:6:LoadSTDWaveformDefaultSetting	16	static
+../Application/DF_WAVEFORM_menu_Setup.c:553:15:GetOrignalMappingarrayIndex	24	static
+../Application/DF_WAVEFORM_menu_Setup.c:584:15:Get_WaveformChannelIndex	16	static

@@ -1,0 +1,15 @@
+D:\ExpressoWorkspace\LPC54618J512_DG400_1_10_1_2022\drivers/fsl_usart.h:488:20:USART_WriteByte	16	static
+../source/WidgetAPI.c:31:6:Emwin_Set_Text	32	static
+../source/WidgetAPI.c:47:6:Emwin_Set_EDIT	48	static
+../source/WidgetAPI.c:72:6:Emwin_Set_Button	32	static
+../source/WidgetAPI.c:84:6:SelectWidget	72	static
+../source/WidgetAPI.c:127:6:SetDropdownSkin	64	static
+../source/WidgetAPI.c:167:6:Emwin_Set_Dropdown	32	static
+../source/WidgetAPI.c:208:6:Emwin_Set_ProgressBar	32	static
+../source/WidgetAPI.c:225:6:Emwin_Set_SPINBOX	64	static
+../source/WidgetAPI.c:265:6:Emwin_Set_CHECKBOX	32	static
+../source/WidgetAPI.c:275:6:Naviagate_on_widget	32	static
+../source/WidgetAPI.c:378:6:InitWidgetArray	4	static
+../source/WidgetAPI.c:408:14:GetWidgetType	24	static
+../source/WidgetAPI.c:427:6:Clear_highlighted_Widget	32	static
+../source/WidgetAPI.c:455:6:HighlightWidget	40	static

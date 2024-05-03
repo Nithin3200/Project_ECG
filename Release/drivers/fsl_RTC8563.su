@@ -1,0 +1,9 @@
+fsl_RTC8563.c:72:13:i2c_master_callback	0	static
+fsl_RTC8563.c:244:10:Init_RTC_8563	24	static
+fsl_RTC8563.c:280:6:BCDtoBinary	0	static
+fsl_RTC8563.c:81:10:Read_RTC_8653	56	static
+fsl_RTC8563.c:288:6:BinarytoBCD	0	static
+fsl_RTC8563.c:154:10:Write_RTC_8563	48	static
+fsl_RTC8563.c:298:6:RTC_read	0	static
+fsl_RTC8563.c:304:6:RTC_write	0	static
+fsl_RTC8563.c:314:6:RTC_init8653	0	static
