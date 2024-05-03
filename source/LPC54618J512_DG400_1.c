@@ -511,7 +511,7 @@ int main(void) {
 	    GUI_SetBkColor(GUI_BLACK);
 	    GUI_Clear();
 	    GUI_FillRect(0,0,800,600);
-
+// use for delay in main screem
 	    for(i=0;i<400000;i++){}
 	    GUI_SetColor(GUI_WHITE);
 	    GUI_SetTextMode(GUI_TM_NORMAL);
